@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/37030792/136857726-65429233-2c82-459c-94c1-37b62859ea78.png)
+
 # 이기선
 - 딥러닝 및 머신러닝 개발자 + 치과의사
 - kisuns@gmail.com
@@ -21,13 +23,13 @@
 <br>
 
 ## 논문
-Lee, K.-S.; Lee, E.; Choi, B.; Pyun, S.-B.Automatic Pharyngeal Phase Recognition in Untrimmed Videofluoroscopic Swallowing Study Using Transfer Learning with Deep Convolutional Neural Networks. Diagnostics 2021, 11, 300. https://doi.org/10.3390/diagnostics11020300
+Lee, K.-S.; Lee, E.; Choi, B.; Pyun, S.-B. **Automatic Pharyngeal Phase Recognition in Untrimmed Videofluoroscopic Swallowing Study Using Transfer Learning with Deep Convolutional Neural Networks. Diagnostics 2021, 11, 300. https://doi.org/10.3390/diagnostics11020300
 
-Lee, K.-S.; Kim, J.Y.; Jeon, E.-T.; Choi, W.S.; Kim, N.H.; Lee, K.Y. Evaluation of Scalability and Degree of Fine-Tuning of Deep Convolutional Neural Networks for COVID-19 Screening on Chest X-ray Images Using Explainable Deep-Learning Algorithm. J. Pers. Med. 2020, 10, 213. https://doi.org/10.3390/jpm10040213
+Lee, K.-S.; Kim, J.Y.; Jeon, E.-T.; Choi, W.S.; Kim, N.H.; Lee, K.Y. **Evaluation of Scalability and Degree of Fine-Tuning of Deep Convolutional Neural Networks for COVID-19 Screening on Chest X-ray Images Using Explainable Deep-Learning Algorithm. J. Pers. Med. 2020, 10, 213. https://doi.org/10.3390/jpm10040213
 
-Lee, K.-S.; Jung, S.-K.; Ryu, J.-J.; Shin, S.-W.; Choi, J.J.J.o.C.M / Evaluation of Transfer Learning with Deep Convolutional Neural Networks for Screening Osteoporosis in Dental Panoramic Radiographs. 2020, 9, 392. https://www.mdpi.com/2077-0383/9/2/392
+Lee, K.-S.; Jung, S.-K.; Ryu, J.-J.; Shin, S.-W.; Choi, J.J.J.o.C.M **Evaluation of Transfer Learning with Deep Convolutional Neural Networks for Screening Osteoporosis in Dental Panoramic Radiographs. 2020, 9, 392. https://www.mdpi.com/2077-0383/9/2/392
 
-Lee, K.-S.; Ryu, J.-J.; Jang, H.S.; Lee, D.-Y.; Jung, S.-K.J.A.S. Deep Convolutional Neural Networks Based Analysis of Cephalometric Radiographs for Differential Diagnosis of Orthognathic Surgery Indications. 2020, 10, 2124. https://doi.org/10.3390/app10062124
+Lee, K.-S.; Ryu, J.-J.; Jang, H.S.; Lee, D.-Y.; Jung, S.-K.J.A.S. **Deep Convolutional Neural Networks Based Analysis of Cephalometric Radiographs for Differential Diagnosis of Orthognathic Surgery Indications. 2020, 10, 2124. https://doi.org/10.3390/app10062124
 
 <br>
 
