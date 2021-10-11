@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/37030792/136857924-83067a6b-d1ed-4167-b25f-ac69ad3cbcf7.png)
+
 # 이기선
 - 딥러닝 및 머신러닝 개발자 + 치과의사
 - kisuns@gmail.com
