@@ -2,7 +2,7 @@
 
 
 # Ki-Sun Lee
-Dentist & Programmer (Specialized Mediacl AI & Deep Learning)
+## Dentist & Programmer (Specialized Mediacl AI & Deep Learning)
 
 - Address:  Seoul, South Korea
 - E-mail:   kisuns@gmail.com
