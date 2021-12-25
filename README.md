@@ -1,9 +1,13 @@
 ![image](https://user-images.githubusercontent.com/37030792/136858136-1e917b4f-a833-4a83-a65d-e1926118d39d.png)
 
 
-# 이기선
-- 딥러닝 및 머신러닝 개발자 + 치과의사
-- kisuns@gmail.com
+# Ki-Sun Lee
+Dentist & Programmer (Specialized Mediacl AI & Deep Learning)
+
+Address  Seoul, South Korea
+E-mail   kisuns@gmail.com
+Website  https://www.researchgate.net/profile/Ki-Sun-Lee-2
+
 
 <br>
 
